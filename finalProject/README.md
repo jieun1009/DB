@@ -9,6 +9,9 @@
 
 
 <img width="658" alt="image" src="https://user-images.githubusercontent.com/81572478/175073539-329f462b-43c6-4981-86fc-e26e9e6f4810.png">
+
+
+
 * 최종 결과물 영상 : https://youtu.be/U5opEb-qIKw
 
 * 담당 역할 : erd 설계 및 웹 인터페이스 구현 
